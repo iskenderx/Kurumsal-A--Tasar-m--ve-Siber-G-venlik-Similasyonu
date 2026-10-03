@@ -1,3 +1,5 @@
+<img width="1919" height="861" alt="Ekran görüntüsü 2026-10-03 204954" src="https://github.com/user-attachments/assets/c626bc36-24b1-4dd0-b105-e63384b866b8" />
+
 # 🌐 Cisco Packet Tracer ile Kurumsal Kampüs Ağı Tasarımı ve Ağ Güvenliği Projesi
 
 Bu proje, orta ölçekli bir kurumsal şirketin ağ altyapısının sıfırdan tasarlanması, ağ servislerinin (DHCP/DNS/HTTP) merkezileştirilmesi ve **Katman 2 ile Katman 3 düzeyinde siber güvenlik politikalarının (ACL)** uygulanmasını içeren uçtan uca bir ağ simülasyonudur.
